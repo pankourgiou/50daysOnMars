@@ -1,0 +1,1 @@
+Hi, The idea was to make a sci-fi story about the journey to Mars..!! I hope you enjoy!! program runs like any other python program, on the cmd you type python 50dayOnMars.py and voila! of course you must be running the command on the same folder as the file for example if you've saved the file on Desktop C:\Users\User\Desktop python 50daysOnMars.py   that's it! enjoy!
